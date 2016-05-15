@@ -1,3 +1,4 @@
 連猴子都懂得指令
 修改加入書籤
 can't display chinese?
+記錄索引的狀態
